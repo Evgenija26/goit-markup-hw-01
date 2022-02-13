@@ -1,0 +1,212 @@
+
+.body{
+    position: relative;
+    width: 1600px;
+    height: 2349px;
+    
+    background: #FFFFFF;
+}
+
+/* Header*/
+.top-line-list{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+
+    color: #212121;
+    text-decoration: none;
+}
+
+.top-line-item{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.hero{
+    background-color: 
+    #2F303A;
+}
+
+.hero-title{
+    color: white;
+}
+.hero-button{
+
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    
+
+}
+ 
+/* About us*/
+
+.about-us-subtitle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.about-us-desc{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.our-work-title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-desc{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.logo{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+
+}
+.web{
+    color: #2196F3;
+}
+
+/* Portfolio*/
+
+.body-portfolio{
+    background: #E5E5E5;
+}
+
+.top-line-item{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+    background: #F5F4FA;
+    border-radius: 4px;
+
+}
+
+.portfolio-item{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.projects-desc{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2;
+
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
+.projects-tagline{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.87;
+
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.footer{
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+
+    background: #2F303A;
+}
+.address{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    }
+
+.footer-item{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+
+}
